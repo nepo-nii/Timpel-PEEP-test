@@ -28,3 +28,11 @@ Ao se cruzar mais de uma vez, o algoritmo aponta o número de cruzamentos, avisa
 ### c)
 
 É importante verificar cada um desses cenários diferentes. Uma porcentagem acima de 100 ou abaixo de 0 pode ser um problema de digitação, assim como passos fora de ordem e valores ausentes. O crucial é refletir essas exceções de volta para o operador fazer a validação; caso contrário, há risco de o viés do programador corrigir/alterar os dados errados, tornando-os falsos positivos. O código, ao aplicar o `review()`, exibe todas essas exceções e erros.
+
+--------
+## Uso de Inteligência Artificial
+
+Ferramentas de inteligência artificial (Claude) foram utilizadas como apoio ao desenvolvimento deste projeto, de maneira responsável e complementar. O auxílio concentrou-se principalmente na configuração e apresentação dos gráficos gerados com Matplotlib (como posicionamento dos avisos em situações limite e tamanho dos eixos para os diferentes dados) e na identificação de ferramentas para testes automatizados, incluindo a biblioteca open-source pytest, cuja utilização foi posteriormente implementada e validada no projeto.
+
+Sugestões fornecidas pela IA foram avaliadas e adaptadas conforme os requisitos do teste, tomando cuidado para manter o olhar crítico no uso da ferramenta.
+A utilização da IA teve como objetivo apoiar o aprendizado e a produtividade, sem substituir a análise crítica, a tomada de decisões técnicas ou a validação do código.
