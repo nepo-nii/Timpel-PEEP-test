@@ -1,8 +1,10 @@
-No diretório `Timpel`, para instalar as bibliotecas utilizadas nesse projeto, use `python -m pip install -r requirements.txt`. 
+Este é um repositório criado como entrega ao processo seletivo da Timpel. É recomendável a criação de um ambiente virtual para evitar conflito de versões entre bibliotecas já presentes no sistema local e as utilizadas neste projeto.
 
-Para rodar o código principal, basta escrever `python main\main.py`.
+Para a criação do ambiente virtual, basta escrever `python -m venv .venv` no terminal já dentro do diretório `Timpel` e em seguida ativá-lo com .`venv\Scripts\Activate.ps1`. Ainda dentro da pasta principal, instale as bibliotecas utilizadas neste projeto usando `python -m pip install -r requirements.txt`.
 
-Por fim, `python -m pytest .\validação.py -v` é o comando para checar os testes, rode ele no terminal dentro da pasta `main`.
+Para rodar o código principal, basta escrever `python main\main.py`. Essa é a resposta da questão 1.
+
+Ademais, respondendo à questão 2, o  `python -m pytest .\validação.py -v` é o comando para checar os testes, rode ele no terminal dentro da pasta `main`.
 
 -----------------
 ## Resposta 2)
