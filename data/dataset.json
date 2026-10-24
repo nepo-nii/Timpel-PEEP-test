@@ -1,0 +1,81 @@
+[
+    {
+        "Patient ID": "ID001",
+        "Titration Steps":[
+            {"Hyperdistension":55.987613677978516,"PEEP":19.200000762939453,"Collapse":0},
+            {"Hyperdistension":45.191326141357422,"PEEP":17.200000762939453,"Collapse":0},
+            {"Hyperdistension":31.079132080078125,"PEEP":14.899999618530273,"Collapse":0},
+            {"Hyperdistension":20.756389617919922,"PEEP":12.800000190734863,"Collapse":0},
+            {"Hyperdistension":8.8021488189697266,"PEEP":11.100000381469727,"Collapse":0},
+            {"Hyperdistension":0,"PEEP":8.3000001907348633,"Collapse":0.0012184650404378772}
+        ]
+    },
+    {
+        "Patient ID": "ID002",
+        "Titration Steps":[
+            {"Hyperdistension":40.325363159179688,"PEEP":21.200000762939453,"Collapse":0},
+            {"Hyperdistension":21.758975982666016,"PEEP":18.200000762939453,"Collapse":0},
+            {"Hyperdistension":16.458395004272461,"PEEP":17.200000762939453,"Collapse":0.00039812756585888565},
+            {"Hyperdistension":5.4174270629882812,"PEEP":15.300000190734863,"Collapse":0.097526498138904572},
+            {"Hyperdistension":3.3950645923614502,"PEEP":13.300000190734863,"Collapse":2.584796667098999},
+            {"Hyperdistension":1.2306473255157471,"PEEP":11.100000381469727,"Collapse":4.2223191261291504},
+            {"Hyperdistension":0,"PEEP":9.3000001907348633,"Collapse":7.9140810966491699}
+        ]
+    },
+    {
+        "Patient ID": "ID003",
+        "Titration Steps":[
+            {"Hyperdistension":54.858772277832031,"PEEP":19.600000381469727,"Collapse":0},
+            {"Hyperdistension":51.242481231689453,"PEEP":18.700000762939453,"Collapse":0},
+            {"Hyperdistension":41.391391754150391,"PEEP":17.299999237060547,"Collapse":0},
+            {"Hyperdistension":29.587894439697266,"PEEP":14.100000381469727,"Collapse":0},
+            {"Hyperdistension":20.471200942993164,"PEEP":12.399999618530273,"Collapse":0},
+            {"Hyperdistension":5.6154026985168457,"PEEP":10.100000381469727,"Collapse":0},
+            {"Hyperdistension":0,"PEEP":7.9000000953674316,"Collapse":0.83489024639129639}
+        ]
+    },
+    {
+        "Patient ID": "ID004",
+        "Titration Steps":[
+            {"Hyperdistension":64.929878234863281,"PEEP":25.600000381469727,"Collapse":0},
+            {"Hyperdistension":60.537464141845703,"PEEP":23.299999237060547,"Collapse":0},
+            {"Hyperdistension":53.228801727294922,"PEEP":21.799999237060547,"Collapse":0},
+            {"Hyperdistension":44.116504669189453,"PEEP":19.600000381469727,"Collapse":0},
+            {"Hyperdistension":31.644615173339844,"PEEP":17.700000762939453,"Collapse":0.00033121535670943558},
+            {"Hyperdistension":23.21546745300293,"PEEP":15.399999618530273,"Collapse":0.13217377662658691},
+            {"Hyperdistension":17.418994903564453,"PEEP":12.899999618530273,"Collapse":1.2094677686691284},
+            {"Hyperdistension":7.1957406997680664,"PEEP":11.800000190734863,"Collapse":1.7769718170166016},
+            {"Hyperdistension":3.8572044372558594,"PEEP":9.6000003814697266,"Collapse":5.8229165077209473},
+            {"Hyperdistension":1.5564068555831909,"PEEP":7.5,"Collapse":10.014609336853027},
+            {"Hyperdistension":0,"PEEP":6.0999999046325684,"Collapse":13.515270233154297}
+        ]
+    },
+    {
+        "Patient ID": "ID005",
+        "Titration Steps":[
+            {"Hyperdistension":50.035404205322266,"PEEP":23.600000381469727,"Collapse":0},
+            {"Hyperdistension":42.540912628173828,"PEEP":21.799999237060547,"Collapse":0},
+            {"Hyperdistension":34.503131866455078,"PEEP":19.399999618530273,"Collapse":0},
+            {"Hyperdistension":29.43865966796875,"PEEP":17.799999237060547,"Collapse":0.0016237692907452583},
+            {"Hyperdistension":23.407558441162109,"PEEP":15.699999809265137,"Collapse":0.8676721453666687},
+            {"Hyperdistension":17.557456970214844,"PEEP":13.300000190734863,"Collapse":4.4242706298828125},
+            {"Hyperdistension":10.261942863464355,"PEEP":10.399999618530273,"Collapse":7.9509201049804687},
+            {"Hyperdistension":5.9131474494934082,"PEEP":9.1999998092651367,"Collapse":10.993355751037598},
+            {"Hyperdistension":0,"PEEP":7.5,"Collapse":16.297405242919922}
+        ]
+    },
+    {
+        "Patient ID": "ID006",
+        "Titration Steps":[
+            {"Hyperdistension":55.499183654785156,"PEEP":24.100000381469727,"Collapse":0},
+            {"Hyperdistension":49.903713226318359,"PEEP":22,"Collapse":0},
+            {"Hyperdistension":40.319355010986328,"PEEP":20.5,"Collapse":0},
+            {"Hyperdistension":33.846138000488281,"PEEP":18.200000762939453,"Collapse":0},
+            {"Hyperdistension":26.459827423095703,"PEEP":16.200000762939453,"Collapse":0},
+            {"Hyperdistension":16.19318962097168,"PEEP":14.199999809265137,"Collapse":0.22977189719676971},
+            {"Hyperdistension":10.251728057861328,"PEEP":12.300000190734863,"Collapse":3.5504903793334961},
+            {"Hyperdistension":6.7260899543762207,"PEEP":10.300000190734863,"Collapse":10.11613655090332},
+            {"Hyperdistension":0,"PEEP":8.1999998092651367,"Collapse":17.406753540039063}
+        ]
+    }
+]
