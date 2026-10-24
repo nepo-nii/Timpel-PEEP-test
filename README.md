@@ -1,6 +1,8 @@
-Para instalar as bibliotecas utilizadas nesse projeto, use `python -m pip install -r requirements.txt`. 
-Para rodar o código principal, basta escrever `python main\main.py`
-`python -m pytest .\validação.py -v` é o comando para checar os testes, rode ele no terminal dentro da pasta `main`
+No diretório `Timpel`, para instalar as bibliotecas utilizadas nesse projeto, use `python -m pip install -r requirements.txt`. 
+
+Para rodar o código principal, basta escrever `python main\main.py`.
+
+Por fim, `python -m pytest .\validação.py -v` é o comando para checar os testes, rode ele no terminal dentro da pasta `main`.
 
 -----------------
 ## Resposta 2)
